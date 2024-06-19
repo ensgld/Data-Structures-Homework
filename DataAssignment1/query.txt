@@ -1,0 +1,10 @@
+Query population > 50.000.000
+Query country > HUNGARY
+Query capital_city < Canakkale
+Query largest_city = Istanbul
+Query country = USA
+Add BULGARIA 6.500.000 Sofia Sofia Bulgarian LEV
+Delete USA
+Query print_all
+Query currency < EUR
+Query print_all

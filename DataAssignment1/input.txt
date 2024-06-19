@@ -1,0 +1,3 @@
+TURKIYE 85.000.000 Ankara Istanbul Turkish TRY
+GERMANY 84.000.000 Berlin Berlin German EUR
+USA 335.000.000 Washington NewYork English USD
